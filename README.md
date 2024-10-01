@@ -1,6 +1,4 @@
-Here's a `README.md` file you can use for your Climate Change Prediction Dashboard project:
 
-```markdown
 # 🌍 Climate Change Prediction Dashboard 🌦️
 
 Welcome to the **Climate Change Prediction Dashboard**! This interactive web application allows users to predict temperature and precipitation values for New Delhi based on historical climate data. With the power of machine learning, you can visualize future climate scenarios and explore historical trends!
@@ -75,7 +73,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Let's work together to understand and combat climate change! 🌱💚
-```
+---
 
 ### Instructions
 
