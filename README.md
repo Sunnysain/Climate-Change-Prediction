@@ -1,9 +1,19 @@
 
 # 🌍 Climate Change Prediction Dashboard 🌦️
 
-Welcome to the **Climate Change Prediction Dashboard**! This interactive web application allows users to predict temperature and precipitation values for New Delhi based on historical climate data. With the power of machine learning, you can visualize future climate scenarios and explore historical trends!
 
-## 📊 Features
+Welcome to the **Climate Change Prediction Dashboard**! This interactive web application allows users to predict temperature and precipitation values for New Delhi based on historical climate data. With the power of machine learning, you can visualize future climate scenarios and explore historical trends!
+![Screenshot 2024-10-01 190002](https://github.com/user-attachments/assets/cb7d962f-ae31-4710-b8ee-1669d952b605)
+![Screenshot 2024-10-01 190031](https://github.com/user-attachments/assets/dbf0d911-5a9c-4d52-a693-b749787ac4cb)
+![Screenshot 2024-10-01 190106](https://github.com/user-attachments/assets/69d8ba68-f802-4ae8-98c8-295900846aca)
+![Screenshot 2024-10-01 190147](https://github.com/user-attachments/assets/91ea0173-0ce2-4c3d-8e63-39efae00c07e)
+![Screenshot 2024-10-01 190205](https://github.com/user-attachments/assets/0fd7b50f-d8e6-4abe-9788-59fe479c7570)
+![Screenshot 2024-10-01 190240](https://github.com/user-attachments/assets/2bf04202-80a9-43f7-b25e-1b4ed6ca1ed9)
+
+
+
+## 📊 Feat
+
 
 - **Temperature Prediction**: Get accurate predictions of average temperatures for a selected date. 
 - **Precipitation Prediction**: Predict rainfall amounts based on historical data.
