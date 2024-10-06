@@ -47,17 +47,18 @@ if st.button('Predict'):
 
         # Ensure the prediction array has the correct shape
         if prediction.size == 2:
-            temperature = prediction[0]
-            precipitation = prediction[1]
+            temperature, precipitation = prediction  # Unpack values
             st.subheader(f"Multivariate Predictions on {input_date}")
             st.write(f"Predicted Average Temperature: {temperature:.2f} °C")
             st.write(f"Predicted Precipitation: {precipitation:.2f} mm")
 
             # Visualization
             fig, ax1 = plt.subplots()
-            ax1.bar(['Temperature'], [temperature], color='orange')
+            ax1.bar(['Temperature'], [temperature], color='orange', label='Temperature')
             ax2 = ax1.twinx()
-            ax2.bar(['Precipitation'], [precipitation], color='blue', alpha=0.7)
+            ax2.bar(['Precipitation'], [precipitation], color='blue', alpha=0.7, label='Precipitation')
+            ax1.set_ylabel('Temperature (°C)', color='orange')
+            ax2.set_ylabel('Precipitation (mm)', color='blue')
             st.pyplot(fig)
 
             # Create and display the map
