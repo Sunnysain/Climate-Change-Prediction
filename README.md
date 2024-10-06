@@ -43,8 +43,7 @@ Ensure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/climate-change-prediction-dashboard.git
-   cd climate-change-prediction-dashboard
+   https://github.com/Sunnysain/Climate-Change-Prediction.git
    ```
 
 2. Install the required packages:
@@ -85,9 +84,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Let's work together to understand and combat climate change! 🌱💚
 ---
 
-### Instructions
-
-- Replace `https://github.com/yourusername/climate-change-prediction-dashboard.git` with the actual URL of your GitHub repository.
-- If you have a `LICENSE` file, ensure it's in the root directory or adjust the link accordingly.
-
-Feel free to copy this content into a `README.md` file in your project directory! Let me know if you need any more changes or additions!
