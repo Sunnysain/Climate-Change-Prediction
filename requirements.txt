@@ -7,6 +7,8 @@ seaborn==0.12.2
 folium==0.14.0
 scikit-learn==1.2.1
 statsmodels==0.14.0
+streamlit-folium==0.0.13
+
 
 # Build Tools to Replace distutils
 setuptools>=67.6.1
